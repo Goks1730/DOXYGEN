@@ -97,6 +97,23 @@ By default, Doxygen outputs LaTeX-formatted documentation as well as HTML-based 
   google-chrome index.html
 ```
   
+  # CREATE A SINGLE COMMAND IN LINUX SO YOU CAN GENERATE DOCUMENTATION
+
+  
+## Deployment
+
+Step 1: From home directory open .bashrc file
+
+```bash
+  sudo nano .bashrc
+```
+
+Step 2: Add a line at the bottom of the file in the following format
+alias <your_custom_command_name>=‘<command_to_be_executed>’
+
+```bash
+  alias rundox='firefox /home/goks/DOXY1/html/index.html'
+```
   
 
 
