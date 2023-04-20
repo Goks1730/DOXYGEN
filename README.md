@@ -71,6 +71,9 @@ Once the configuration file is edited, you can generate the documentation for yo
   doxygen sample.conf
 ```
 Once you run above command. Doxygen will process the generate document as shown below.
+
+<img width="377" alt="2" src="https://user-images.githubusercontent.com/84590536/233454265-7cba5e8d-07d2-4494-84fc-ff988bb825cd.png">
+
   
   
 
