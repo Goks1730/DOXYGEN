@@ -121,6 +121,10 @@ alias <your_custom_command_name>=‘<command_to_be_executed>’
   
 comments in Doxygen are divided into two sections, a brief description and a detailed description. Both sections are optional. In the code sample above, the comment block refers to the following line of code, the declaration of a constructor. The sentence behind the @brief will be shown in the compact class overview:
 
+
+<img width="449" alt="4" src="https://user-images.githubusercontent.com/84590536/233461920-4e33c9eb-38b5-44cf-8e89-0afe4f4d3ed8.png">
+
+
  
 
 
