@@ -70,11 +70,9 @@ Once the configuration file is edited, you can generate the documentation for yo
 ```bash
   doxygen sample.conf
 ```
-
-## 
-## Screenshots
-
-![Alt text](C:\Users\GOKUL KUMAR M\Downloads?raw=true "Optional Title")
+Once you run above command. Doxygen will process the generate document as shown below.
+  
+  
 
 
 
