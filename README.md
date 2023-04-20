@@ -79,7 +79,10 @@ Once you run above command. Doxygen will process the generate document as shown 
 `html`
 
 `latex`
+  
+By default, Doxygen outputs LaTeX-formatted documentation as well as HTML-based documentation. In this article, I will focus only on HTML-based documentation. You can find out more about LaTeX output in the official Doxygen documentation, in the Getting started section.
 
+ html/index.html will have HTML documentation. you can open directly or run through command prompt
   
   
 
