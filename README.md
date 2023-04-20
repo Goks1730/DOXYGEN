@@ -117,6 +117,10 @@ alias <your_custom_command_name>=‘<command_to_be_executed>’
   <img width="364" alt="3" src="https://user-images.githubusercontent.com/84590536/233460519-b7a2e68a-1544-4ba3-9dc1-2e4097921b4f.png">
   
  Step 3: reboot the linux and start using the command
+  
+  
+comments in Doxygen are divided into two sections, a brief description and a detailed description. Both sections are optional. In the code sample above, the comment block refers to the following line of code, the declaration of a constructor. The sentence behind the @brief will be shown in the compact class overview:
 
+ 
 
 
