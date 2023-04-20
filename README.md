@@ -123,6 +123,13 @@ comments in Doxygen are divided into two sections, a brief description and a det
 
 
 <img width="449" alt="4" src="https://user-images.githubusercontent.com/84590536/233461920-4e33c9eb-38b5-44cf-8e89-0afe4f4d3ed8.png">
+  
+  
+ After a blank line (blank lines are treated as paragraph separators), the actual documentation for the constructor begins. With the @param[in/out] keyword, you can mark the arguments passed to the constructor, and Doxygen will make a clear argument list from it:
+  
+  
+
+
 
 
  
