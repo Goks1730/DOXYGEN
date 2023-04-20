@@ -115,6 +115,8 @@ alias <your_custom_command_name>=‘<command_to_be_executed>’
   alias rundox='firefox /home/goks/DOXY1/html/index.html'
 ```
   <img width="364" alt="3" src="https://user-images.githubusercontent.com/84590536/233460519-b7a2e68a-1544-4ba3-9dc1-2e4097921b4f.png">
+  
+ Step 3: reboot the linux and start using the command
 
 
 
