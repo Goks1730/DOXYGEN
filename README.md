@@ -1,7 +1,7 @@
 
 # DOXYGEN
 
-Documentation generator
+Document your source code with Doxygen on Linux
 
 
 ## Deployment
