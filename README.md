@@ -84,6 +84,19 @@ By default, Doxygen outputs LaTeX-formatted documentation as well as HTML-based 
 
  html/index.html will have HTML documentation. you can open directly or run through command prompt
   
+  STEP 7: Opening through command prompt
+
+```bash
+  cd html
+```
+  STEP 8: Open the Documentation in browser
+
+```bash
+  firefox index.html
+  or
+  google-chrome index.html
+```
+  
   
 
 
