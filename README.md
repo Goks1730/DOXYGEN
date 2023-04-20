@@ -36,6 +36,8 @@ First you need to create configuration file of your source code by using doxygen
 
 
 ## sample.conf 
+  
+  A sample.conf file will be generated in your folder as shown below.
 
 <img width="418" alt="Screenshot 2023-04-20 225640" src="https://user-images.githubusercontent.com/84590536/233444725-319f4ed3-54cd-425e-97a5-d320adcad39d.png">
   
