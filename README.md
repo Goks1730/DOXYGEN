@@ -44,7 +44,7 @@ First you need to create configuration file of your source code by using doxygen
 
 Once the configuration file is generated require few configuration as per your project and path requirements. So edit generated configuration file and update following options
 
-[![PROJECT NAME! NAME](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![PROJECT NAME!](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![FOLER_PATH INPUT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![YES EXTRACT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![YES EXTRACT_STATIC](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
@@ -54,8 +54,6 @@ Once the configuration file is generated require few configuration as per your p
 [![YES CHM_FILE](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![NO GENERATE_LATEX](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![PATH PROJECT_LOGO](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
-
 
 
 
