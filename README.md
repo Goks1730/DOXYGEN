@@ -44,16 +44,20 @@ First you need to create configuration file of your source code by using doxygen
 
 Once the configuration file is generated require few configuration as per your project and path requirements. So edit generated configuration file and update following options
 
-[![PROJECT NAME!](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![FOLER_PATH INPUT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![YES EXTRACT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![YES EXTRACT_STATIC](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![*/C FILE_PATTERN](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-[![YES RECURSIVE](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-[![YES INLINE_SOURCE](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![YES CHM_FILE](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![NO GENERATE_LATEX](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![PATH PROJECT_LOGO](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+|     configuration       | YES/NO/PATH_ADDRESS                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| PROJECT NAME! | ![#00b48a](https://via.placeholder.com/10/0a192f?text=+) CUSTOM |
+| FOLER_PATH INPUT | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) DECLARE_PATH |
+| EXTRACT | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) YES |
+| EXTRACT_STATIC | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) YES |
+| FILE_PATTERN | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) C |
+| RECURSIVE | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) YES |
+| INLINE_SOURCE | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) YES |
+| INLINE_SOURCE | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) YES |
+| CHM_FILE | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) YES |
+| PATH PROJECT_LOGO | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) DECLARE_PATH |
+| GENERATE_LATEX | ![#00b48a](https://via.placeholder.com/10/0a192f?text=+) NO |
+
 
 
 
