@@ -1,10 +1,11 @@
 
 # DOXYGEN
 
-Document your source code with Doxygen on Linux
+Document your source code with Doxygen on Linux 
+To use Doxygen, you simply comment your source code in a syntax that Doxygen can read. Doxygen then walks through your source files and creates HTML(.chm) or LaTeX documentation based on those special comments. The C/C++ example project below will illustrate how the source code is commented and how the documentation is generated from it.
 
 
-## Deployment
+## Deployment and Installing 
 STEP 1: Update Your Server
 
 First you need to update the Server by using sudo apt update command as shown below.
