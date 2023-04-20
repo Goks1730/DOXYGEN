@@ -118,6 +118,13 @@ alias <your_custom_command_name>=‘<command_to_be_executed>’
   
  Step 3: reboot the linux and start using the command
   
+ Step 4: run the command through terminal 
+Once above command successfully run then you will check your output directory and the document will be there.
+  
+```bash
+  rundox
+```
+  
   
 comments in Doxygen are divided into two sections, a brief description and a detailed description. Both sections are optional. In the code sample above, the comment block refers to the following line of code, the declaration of a constructor. The sentence behind the @brief will be shown in the compact class overview:
 
