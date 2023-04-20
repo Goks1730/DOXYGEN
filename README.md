@@ -124,15 +124,16 @@ Once above command successfully run then you will check your output directory an
 ```bash
   rundox
 ```
+  <img width="880" alt="6" src="https://user-images.githubusercontent.com/84590536/233463490-151cc163-d3bd-4527-94a4-8a89198d3580.png">
   
   
-comments in Doxygen are divided into two sections, a brief description and a detailed description. Both sections are optional. In the code sample above, the comment block refers to the following line of code, the declaration of a constructor. The sentence behind the @brief will be shown in the compact class overview:
+## comments in Doxygen are divided into two sections, a brief description and a detailed description. Both sections are optional. In the code sample above, the comment block refers to the following line of code, the declaration of a constructor. The sentence behind the @brief will be shown in the compact class overview:
 
 
 <img width="449" alt="4" src="https://user-images.githubusercontent.com/84590536/233461920-4e33c9eb-38b5-44cf-8e89-0afe4f4d3ed8.png">
   
   
- After a blank line (blank lines are treated as paragraph separators), the actual documentation for the constructor begins. With the @param[in/out] keyword, you can mark the arguments passed to the constructor, and Doxygen will make a clear argument list from it:
+ ## After a blank line (blank lines are treated as paragraph separators), the actual documentation for the constructor begins. With the @param[in/out] keyword, you can mark the arguments passed to the constructor, and Doxygen will make a clear argument list from it:
   
   <img width="923" alt="5" src="https://user-images.githubusercontent.com/84590536/233462364-fbfb9385-bf51-401f-8b0e-1589530afb73.png">
 
