@@ -53,7 +53,6 @@ Once the configuration file is generated require few configuration as per your p
 | FILE_PATTERN | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) C |
 | RECURSIVE | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) YES |
 | INLINE_SOURCE | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) YES |
-| INLINE_SOURCE | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) YES |
 | CHM_FILE | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) YES |
 | PATH PROJECT_LOGO | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) DECLARE_PATH |
 | GENERATE_LATEX | ![#00b48a](https://via.placeholder.com/10/0a192f?text=+) NO |
