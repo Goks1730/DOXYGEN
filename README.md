@@ -4,17 +4,31 @@
 Document your source code with Doxygen on Linux 
 To use Doxygen, you simply comment your source code in a syntax that Doxygen can read. Doxygen then walks through your source files and creates HTML(.chm) or LaTeX documentation based on those special comments. The C/C++ example project below will illustrate how the source code is commented and how the documentation is generated from it.
 
-## Comments
+## Comments Doxygen Tags
 
 Doxygen reads the sources and checks each file for special comments. Based on those comments and keywords, it builds up the HTML documentation(.chm).
 
 Comments in Doxygen are divided into two sections, a brief description and a detailed description. Both sections are optional. In the code sample above, the comment block refers to the following line of code, the declaration of a constructor. The sentence behind the @brief will be shown in the compact class overview:
 
+@brief
+
+This tag supplies a brief description of a function for doxygen pages. This message should tell what happens in the function. By convention in Rosetta3 all functions must have brief tags. These included in the header file along with the declaration of the functions.
+
+
+@param
+
+This tag can be used to document the purpose and meaning of params for functions. You can specify the nature of the param as input output or both in the following manner
+
+@param[in]
+
+@param[out]
+
+@param[in/out]
+
+
 ```bash
 /*! @brief Constructor which takes an external buffer to operate on
 *
-* The specified buffer already exist.
-* Memory and size can be accessed by buffer() and size().
 *
 * @param[in] pBuf Pointer to existing buffer
 * @param[in] size Size of the existing buffer
