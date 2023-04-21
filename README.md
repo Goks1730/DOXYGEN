@@ -17,6 +17,8 @@ STEP 2: Install Doxygen
 
 Doxygen:
 Next step is to install Doxygen by using sudo apt install doxygen command as shown below. This command will download and install the package along with all its dependencies from default Ubuntu repo
+
+
 Graghviz:
 Doxygen can use the “dot” tool from graphviz to generate more advanced diagrams and graphs. Graphviz is an open-source, cross-platform graph drawing toolkit and can be found at http://www.graphviz.org/. This can do a lot more things but I have used it for my c project so using it to generate the call graphs.
 
