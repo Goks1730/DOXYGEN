@@ -8,6 +8,21 @@ To use Doxygen, you simply comment your source code in a syntax that Doxygen can
 
 Doxygen reads the sources and checks each file for special comments. Based on those comments and keywords, it builds up the HTML documentation(.chm).
 
+Doxygen comment blocks are easy to create. For line comment just insert a triple forward slash.
+
+/////This line will be included in the Doxygen comments for this function/class/file
+
+Commenting multiple lines is just as easy.
+
+```bash
+/*! 
+These next few lines will form a comment block    
+To start a new paragraph add an empty line    
+To end the comment block type asterik and then forward slash. 
+*/
+By taking a few minutes as you are writing your code to write comment blocks you can tell future developers what you intended and make their life more productive and easier.
+```
+
 Comments in Doxygen are divided into two sections, a brief description and a detailed description. Both sections are optional. In the code sample above, the comment block refers to the following line of code, the declaration of a constructor. The sentence behind the @brief will be shown in the compact class overview:
 
 @brief
