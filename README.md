@@ -189,7 +189,9 @@ Once above command successfully run then you will check your output directory an
   
   <img width="923" alt="5" src="https://user-images.githubusercontent.com/84590536/233462364-fbfb9385-bf51-401f-8b0e-1589530afb73.png">
 
-  
+ ## Conclusion
+
+You have learned how to install Doxygen on an Ubuntu system. We have executed different commands on the terminal for the installation. and we have learned how commands work in Doxygen and how to command your code, and we have learned to use a custom command to run all your documentation. Thanks!
 
 
 
