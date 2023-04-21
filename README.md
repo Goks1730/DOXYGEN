@@ -132,7 +132,7 @@ Once you run above command. Doxygen will process the generate document as shown 
 
 `latex`
   
-By default, Doxygen outputs LaTeX-formatted documentation as well as HTML-based documentation. In this article, I will focus only on HTML-based documentation. You can find out more about LaTeX output in the official Doxygen documentation, in the Getting started section.
+By default, Doxygen outputs LaTeX-formatted documentation as well as HTML-based documentation. In this article, I will focus only on HTML-based documentation. You can find out more about LaTeX output in the official Doxygen documentation, in the Getting started section. you can run the documentation without the latex, you just need to set-up the configuration and disable the latex, if you disable it you get the folder of latex, you can directly run through html folder.
 
  html/index.html will have HTML documentation. you can open directly or run through command prompt
   
